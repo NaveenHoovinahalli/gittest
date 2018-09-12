@@ -8,4 +8,6 @@ public class something {
 
     int s=11;
 int a=10;
+
+int d=10;
 }
