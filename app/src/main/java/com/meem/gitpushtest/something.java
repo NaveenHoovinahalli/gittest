@@ -5,4 +5,5 @@ package com.meem.gitpushtest;
  */
 
 public class something {
+int a=10
 }
