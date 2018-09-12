@@ -10,4 +10,5 @@ public class something {
 int a=10;
 
 int d=10;
+int w=10;
 }
