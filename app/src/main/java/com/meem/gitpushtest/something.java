@@ -7,5 +7,5 @@ package com.meem.gitpushtest;
 public class something {
 
     int s=11;
-int a=10
+int a=10;
 }
