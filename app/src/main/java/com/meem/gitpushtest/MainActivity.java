@@ -18,5 +18,7 @@ public class MainActivity extends AppCompatActivity {
 //        naveen branch editing
 
 // edit from server
+
+//         new data in master 
     }
 }
